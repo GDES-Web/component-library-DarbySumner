@@ -1,0 +1,20 @@
+.button1 {
+    border: none;
+    color: rgb(137, 98, 201);
+    background-color: rgb(224, 224, 224);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: .5em;
+  }
+/* You can change the color of the button and style here */
+
+
+  .button1:hover {
+    background-color: #bc9fcf; /* Green */
+  color: white;
+  }
+  /* This changes the hover state of the button */
