@@ -1,0 +1,20 @@
+.hero {
+  background-image: url("michaelscott.jpg");
+  width: 100vw;
+  height: 320px;
+  background-size: auto;
+}
+.hero .blockquote {
+  display: flex;
+  justify-content: left;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 255, 255);
+  text-align: left;
+}
+
+body {
+  background-color: rgb(28, 226, 240);
+}
+
+/*# sourceMappingURL=style.css.map */
